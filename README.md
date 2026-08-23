@@ -1,3 +1,3 @@
 # my-test-repo
 Testing
-my feature branch commit2
+my feature branch commit1
